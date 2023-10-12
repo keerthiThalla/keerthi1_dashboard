@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --footnote: Poppins;
+  --font-inter: Inter;
+  --font-open-sans: "Open Sans";
+  --font-nunito-sans: "Nunito Sans";
+
+  /* font sizes */
+  --caption-regular-size: 12px;
+  --footnote-size: 14px;
+  --font-size-base: 16px;
+  --font-size-9xl: 28px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-109xl: 128px;
+  --font-size-5xl: 24px;
+  --font-size-29xl: 48px;
+  --font-size-base-3: 15.3px;
+  --font-size-2xs: 11px;
+  --font-size-3xs: 10px;
+
+  /* Colors */
+  --color-aliceblue-100: #f0f8ff;
+  --button-secondary-color: #f0f4ff;
+  --color-aliceblue-200: #e3f6ff;
+  --text-seconday-color: #697077;
+  --base-black80: #626262;
+  --text-color: #3a3a3a;
+  --light-primary-text-color: #323338;
+  --primary-color: #0279b5;
+  --color-steelblue-100: #026ab5;
+  --white: #fff;
+  --border: #e6edff;
+  --tables-stroke-color: #dfe5f9;
+  --color-whitesmoke-100: #f8f9fa;
+  --color-whitesmoke-200: #f2f4f8;
+  --less-gray: #f5f3f4;
+  --color-lightsteelblue: #a3aed0;
+  --red: #cd5642;
+  --color-lavenderblush: #fff0f0;
+  --color-tomato: #ff4747;
+  --color-gray1-100: #282828;
+  --color-gray1-200: #212529;
+  --color-gainsboro: #dee2e6;
+  --green: #4aa361;
+  --gray: #adb5bd;
+  --color-mintcream: #f2fff7;
+  --color-forestgreen: #00b448;
+  --color-goldenrod-100: #f4be37;
+  --yellow: #e7a03c;
+  --color-oldlace: #fff6e8;
+  --color-burlywood: #ffcc81;
+  --color-lightskyblue: #64b4e9;
+  --color-dodgerblue: #688af6;
+  --color-orchid: #e361da;
+  --color-sandybrown: #ff9f40;
+  --color-mediumpurple: #8e6fc0;
+  --color-black: #000;
+  --secondary: #7c8db5;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-9xs: 4px;
+  --br-6xs: 7px;
+  --br-11xs: 2px;
+  --br-3xs-3: 9.3px;
+
+  /* Effects */
+  --cards-shadow-effect: 0px 0px 8px rgba(107, 107, 107, 0.18);
+}
